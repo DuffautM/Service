@@ -1,0 +1,6 @@
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\bin\Debug\Service.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\bin\Debug\Service.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\obj\Debug\Service.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\obj\Debug\Service.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Service\Service\obj\Debug\Service.csproj.GenerateResource.Cache
